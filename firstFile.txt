@@ -1,3 +1,1 @@
-Hi this is first file of git learning 
-This is second line in first file after commiting
-This is just another line
+The common line in both the file 

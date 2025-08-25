@@ -1,2 +1,1 @@
-This is second file
-This is second line after adding file to staged
+The common line in both the file 
