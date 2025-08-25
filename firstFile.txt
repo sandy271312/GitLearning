@@ -1,1 +1,2 @@
 Hi this is first file of git learning 
+This is second line in first file after commiting
