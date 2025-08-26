@@ -1,2 +1,5 @@
 This file is added by develope branch
 A new line is added in devlope file for rebasing consept
+A new line is added in devlope file by feature branch rebasing consept
+First line is added in develope file for sqashing consept
+Second line is added in develope file for sqashing consept
